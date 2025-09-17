@@ -1,0 +1,17 @@
+--- Model Test Results ---
+Total images tested: 2061
+
+Highest confidence: 99.65%
+Lowest confidence: 50.04%
+Average confidence: 84.66%
+
+--- Overall Model Metrics ---
+Accuracy:  0.8967
+Precision: 0.9170 (Weighted Avg)
+Recall:    0.8967 (Weighted Avg)
+F1-Score:  0.9026 (Weighted Avg)
+
+--- Confusion Matrix ---
+            Predicted Good      Predicted Bad       
+Actual Good 305                 43                  
+Actual Bad  170                 1543                

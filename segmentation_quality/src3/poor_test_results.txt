@@ -1,0 +1,8 @@
+Total images: 1713
+Average accuracy: 90.83%
+Highest confidence: 99.99%
+Lowest confidence: 50.15%
+
+Confusion Matrix (rows: true, cols: predicted)
+[[1556  157]
+ [   0    0]]

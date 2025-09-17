@@ -1,0 +1,12 @@
+Training:
+
+Final Evaluation Metrics:
+Accuracy  : 0.8133
+Precision : 0.7625
+Recall    : 0.8714
+F1 Score  : 0.8133
+Confusion Matrix:
+[[61 19]
+ [ 9 61]]
+
+ 

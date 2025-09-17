@@ -1,0 +1,16 @@
+summary.docx
+.vscode
+aireadi-data/
+data/
+dataset/
+poor_seg_data/
+test_small/
+seg_qual_v2/data/
+oct-upscaling/paired_images/
+oct-upscaling/roi/
+oct-upscaling/roi.zip
+retinal-oct/test_small
+retinal-oct/upload/
+retinal-oct/upload_results/
+segmentation_quality/data_split/
+segmentation_quality/results/

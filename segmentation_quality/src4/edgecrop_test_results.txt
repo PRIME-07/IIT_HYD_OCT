@@ -1,0 +1,12 @@
+Total images tested: 1713
+Correct predictions (Predicted 'Bad'): 1522
+Incorrect predictions (Predicted 'Good'): 191
+Accuracy: 88.85%
+Highest confidence on a prediction: 98.76%
+Lowest confidence on a prediction: 50.20%
+
+Confusion Matrix:
+           Predicted:
+           Bad    Good
+Actual Bad:  1522   191  
+Actual Good: 0      0    
